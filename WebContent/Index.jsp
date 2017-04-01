@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to my First DevOPs Project - By Viresh
+Welcome to my First DevOPs Project - By Viresh Parikh
 </body>
 </html>
