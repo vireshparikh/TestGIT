@@ -12,5 +12,6 @@ Welcome to my First DevOPs Project - By Viresh Parikh
 System.out.print("Hello");
 String SBR = null;
 %>
+
 </body>
 </html>
